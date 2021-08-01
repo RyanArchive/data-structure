@@ -22,7 +22,7 @@ This is a guide on how to compile and execute Java programs through the Command 
     - If you have a different drive, you can switch to it by entering the drive name
     - Example: `d:`
 4. Enter this to compile: `javac [fileName].java`
-    - Example: `javac Playlist.java` / `javac ReverseWord.java` / `javac RelationshipGraph.java` / `javac MinMaxHeap.java` / `javac DistinctColors.java`
+    - Example: `javac Playlist.java` / `javac ReverseWord.java` / `javac RelationshipGraph.java` / `javac MinMaxHeap.java` / `javac DistinctColors.java` / `javac NameHashing.java`
     - You only need to do this if there is no class file, or if you made changes in the Java file
 5. Enter this to execute: `java [fileName]`
-    - Example: `java Playlist` / `java ReverseWord` / `java RelationshipGraph` / `java MinMaxHeap` / `java DistinctColors`
+    - Example: `java Playlist` / `java ReverseWord` / `java RelationshipGraph` / `java MinMaxHeap` / `java NameHashing`
