@@ -20,11 +20,15 @@ Getting mutual, polygon and lonely persons by the factor of 'crush', using **Arr
 
 ### MinMaxHeap
 
-Getting min/max heap through **Heap**
+Getting min and/or max **Heap**
 
 ### DistinctColors
 
 Getting the number of distinct colors of Saypa Ades plants through **Map**
+
+### NameHashing
+
+Hashing of names into 10 using ASCII values
 
 <br>
 
